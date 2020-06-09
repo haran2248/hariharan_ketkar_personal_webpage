@@ -1,14 +1,17 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Hariharan.S | Personal Webpage",
+	"Name": "Hariharan",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
-		"I grab every chance I get to travel, learn and create."
+		"1st year student at Bits Pilani.",
+"Interested in android app development and competitive coding.",
+"National level Table Tennis Player.",
+"I'm always in interested in learning new things and expanding my knowledge.My interests include coding and solving real life problems using code.",
+		"I am a member of the Wallstreet Club of Bits Pilani,Goa campus and I'm interested in investment banking."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
-	"BackgroundURL": "",
+	"MainImage": "https://i.imgur.com/W0RmchM.jpg",
+	"BackgroundURL": "data:image/jpeg;base64,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",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "",
 	"AboutContent": [
 		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
 		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
@@ -17,52 +20,47 @@
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I am currently full time Software Developer at Devsoc."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"WorkImage": "",
+	"InternshipsStartLine": "",
 	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
+			"name": "",
+			"link": ""
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+			"name": "",
+			"link": ""
 		},
 		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+			"name": "",
+			"link": ""
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
+			"name": "ConnectME",
+			"link": "https://github.com/haran2248/ConnectMe"
 		},
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
+			"name": "Hostel Allotment App",
+			"link": "https://github.com/haran2248/Hostel_Allotment_Application"
 		},
 		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+			"name": "Weather App",
+			"link": "https://weather-server-forever.herokuapp.com/"
 		},
 		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
 		}
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1yhfRELr2NYqAjbajnWGX0SfFmoK3r7d7/view?usp=sharing",
+	"CV": "",
+	"Resume": "",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:haran2248@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/hariharan-s-77398b199/",
+	
+	"github": "https://github.com/haran2248",
+	
 }
